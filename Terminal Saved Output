@@ -1,0 +1,120 @@
+Last login: Fri Apr  9 09:56:08 on ttys000
+Welcome to your terminal, hann. May you never grow weary of doing good.
+➜  ~ ls 
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Google Drive
+Library
+Movies
+Music
+Pictures
+Public
+bin
+challenge-one.css
+challenge-one.html
+greeting.txt
+greetings.txt
+hmw3e@mtmail.mtsu.edu Creative Cloud Files
+index.html
+main.css
+martins-aquarium
+personal
+workspace
+➜  ~ ls workspace
+README.md        congress         martins-aquarium
+coffeeshop       index.html
+➜  ~ ls martins-aquarium
+martins-aquarium
+➜  ~ cat martins-aquarium
+➜  ~ touch index.html
+➜  ~ mkdir styles
+➜  ~ ls martins-aquarium
+martins-aquarium
+➜  ~ ls workspace/martins-directory
+ls: workspace/martins-directory: No such file or directory
+➜  ~ workspace
+➜  workspace git:(main) martins-directory
+zsh: command not found: martins-directory
+➜  workspace git:(main) cd martins-directory
+cd: no such file or directory: martins-directory
+➜  workspace git:(main) mkdir martins-directory
+➜  workspace git:(main) martins-directory
+➜  martins-directory git:(main) mkdir styles
+➜  martins-directory git:(main) index.html
+zsh: command not found: index.html
+➜  martins-directory git:(main) touch index.html
+➜  martins-directory git:(main) ✗ styles
+➜  styles git:(main) ✗ main.css
+zsh: command not found: main.css
+➜  styles git:(main) ✗ ..     
+➜  martins-directory git:(main) ✗ code index.html
+➜  martins-directory git:(main) ✗ styles
+➜  styles git:(main) ✗ code main.css
+➜  styles git:(main) ✗ cd
+➜  ~ ls 
+Applications
+Creative Cloud Files
+Desktop
+Documents
+Downloads
+Google Drive
+Library
+Movies
+Music
+Pictures
+Public
+bin
+challenge-one.css
+challenge-one.html
+greeting.txt
+greetings.txt
+hmw3e@mtmail.mtsu.edu Creative Cloud Files
+index.html
+main.css
+martins-aquarium
+personal
+styles
+workspace
+➜  ~ ls workspace
+README.md         congress          martins-aquarium
+coffeeshop        index.html        martins-directory
+➜  ~ ls coffeeshop
+ls: coffeeshop: No such file or directory
+➜  ~ workspace
+➜  workspace git:(main) ✗ coffeeshop
+➜  coffeeshop git:(main) ✗ ls coffeeshop
+ls: coffeeshop: No such file or directory
+➜  coffeeshop git:(main) ✗ ls
+index.html main.css
+➜  coffeeshop git:(main) ✗ code index.html
+➜  coffeeshop git:(main) ✗ cd martins-aquarium
+cd: no such file or directory: martins-aquarium
+➜  coffeeshop git:(main) ✗ clear
+
+➜  coffeeshop git:(main) ✗ ..
+➜  workspace git:(main) ✗ martins-aquarium
+➜  martins-aquarium git:(main) ✗ serve
+
+   ┌───────────────────────────────────────────────┐
+   │                                               │
+   │   Serving!                                    │
+   │                                               │
+   │   - Local:            http://localhost:5000   │
+   │   - On Your Network:  http://10.0.0.9:5000    │
+   │                                               │
+   │   Copied local address to clipboard!          │
+   │                                               │
+   └───────────────────────────────────────────────┘
+
+
+
+
+
+
+
+
+
+
