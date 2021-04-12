@@ -1,0 +1,10 @@
+.fish-name {
+    display: inline-flex;
+    border: .3cm;
+    border-style: double;
+    flex-flow: wrap;
+    border-top-right-radius: .3cm;
+    flex-direction: row;
+    flex-basis: 10%;
+    text-align: center;
+\}
